@@ -86,8 +86,13 @@ $$
 ### 5.1. 사전 준비 및 환경 설정
 
 - **GitHub 저장소 주소:** [(https://github.com/zinuzanu/Drunk-Driving-Accident-Map-Viz.git)]
-- **파일 준비:** `colab_data_injector.py`, `19_24_drunk.csv`, `korea_geojson.json` 다운로드 또는 Colab 업로드
-- **순서대로 코드 실행**: 위에서 부터 아래로 코드 셀을 실행합니다.
+- **파일 준비:** `colab_data_injector.py`, `19_24_drunk.csv`, `korea_geojson.json`, `202144079.ipynb` 다운로드 후 Colab 업로드
+- **코드 실행**: colab 상단 메뉴바에 있는 **모두 실행** 버튼을 누릅니다.
+- **결과**: 코드 실행이 완료되면 해당 프로젝트 하단에 시각화 지도가 뜨게 됩니다.
+
+## ▶️ 6. 실행 영상
+[![음주운전 사고 위험 지역 시각화 실행 영상](https://img.youtube.com/vi/9qrZy0On6-8/hqdefault.jpg)](https://www.youtube.com/watch?v=9qrZy0On6-8)
 
   
+
 
